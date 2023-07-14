@@ -1,0 +1,15 @@
+{
+"table.err": "Failed to retrieve table information",
+"table.choose": "Please select a table first",
+"field.choose": "Please select a field first",
+"value.choose": "Please limit the maximum/minimum value",
+"set.err": "Failed to fill cell",
+"success.num": "Successfully filled {{num}} cells",
+"set.some.err": "Failed to fill some cells",
+"table.info": "Fill blank records with random numbers in the field",
+"label.field": "Field",
+"label.max": "Maximum",
+"label.min": "Minimum",
+"fill.btn": "Fill with integers",
+"fill.btn2": "Fill with random values"
+}

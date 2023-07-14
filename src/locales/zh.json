@@ -1,0 +1,15 @@
+{
+  "table.err":"获取表格信息失败",
+  "table.choose":"请先选择table",
+  "field.choose":"请先选择字段",
+  "value.choose":"请限定最大值/最小值",
+  "set.err":"单元格填充失败",
+  "success.num":"成功填充{{num}}个单元格",
+  "set.some.err":"部分单元格填充失败",
+  "table.info":"用随机数填充字段中的空白记录",
+  "label.field":"字段",
+  "label.max":"最大值",
+  "label.min":"最小值",
+  "fill.btn":"填充整数",
+  "fill.btn2":"填充随机值"
+}
