@@ -1,5 +1,5 @@
 
-## FindAndReplace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/connectai-e/awesome-basescript)
+## FillwithRandomValues [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/connectai-e/awesome-basescript)
 
 > 使用随机数填充字段
 
