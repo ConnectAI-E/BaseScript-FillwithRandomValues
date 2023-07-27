@@ -1,17 +1,17 @@
-## Running React on Repl.it
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## FindAndReplace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/connectai-e/awesome-basescript)
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+> 使用随机数填充字段
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+![image](https://github.com/ConnectAI-E/BaseScript-FillwithRandomValues/assets/110169811/a19f6ca2-a55f-4aed-9a71-4e546d562226)
+
 
 ### Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Project Feature
-- write by `react`
-- out of `i18n` box
+1️⃣ clone deme
+```
+git clone https://github.com/ConnectAI-E/BaseScript-FillwithRandomValues
+pnpm install
+pnpm dev
+```
+2️⃣ 复制 http://localhost:5173/ 到 多维表格 webview 地址
